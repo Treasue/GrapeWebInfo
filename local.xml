@@ -1,0 +1,36 @@
+<Location>
+  <CountryRegion>京</CountryRegion>
+  <CountryRegion>沪</CountryRegion>
+  <CountryRegion>津</CountryRegion>
+  <CountryRegion>渝</CountryRegion>
+  <CountryRegion>冀</CountryRegion>
+  <CountryRegion>晋</CountryRegion>
+  <CountryRegion>蒙</CountryRegion>
+  <CountryRegion>辽</CountryRegion>
+  <CountryRegion>吉</CountryRegion>
+  <CountryRegion>黑</CountryRegion>
+  <CountryRegion>苏</CountryRegion>
+  <CountryRegion>浙</CountryRegion>
+  <CountryRegion>皖</CountryRegion>
+  <CountryRegion>闽</CountryRegion>
+  <CountryRegion>赣</CountryRegion>
+  <CountryRegion>鲁</CountryRegion>
+  <CountryRegion>豫</CountryRegion>
+  <CountryRegion>鄂</CountryRegion>
+  <CountryRegion>湘</CountryRegion>
+  <CountryRegion>粤</CountryRegion>
+  <CountryRegion>桂</CountryRegion>
+  <CountryRegion>琼</CountryRegion>
+  <CountryRegion>川</CountryRegion>
+  <CountryRegion>贵</CountryRegion>
+  <CountryRegion>滇</CountryRegion>
+  <CountryRegion>藏</CountryRegion>
+  <CountryRegion>陕</CountryRegion>
+  <CountryRegion>甘</CountryRegion>
+  <CountryRegion>宁</CountryRegion>
+  <CountryRegion>青</CountryRegion>
+  <CountryRegion>新</CountryRegion>
+  <CountryRegion>港</CountryRegion>
+  <CountryRegion>澳</CountryRegion>
+  <CountryRegion>台</CountryRegion>
+</Location>
